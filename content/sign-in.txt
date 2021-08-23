@@ -1,0 +1,30 @@
+HEADER ---------------
+
+Logo
+
+MAIN ---------------
+
+Platform Preview ---
+
+<Image>
+You’re almost there…
+
+Sign In Form ---
+
+Sign In
+
+Email
+Password
+
+[ ] Keep me signed in.
+
+Sign In
+
+Don't have an account? Sign Up
+
+FOOTER ---------------
+
+Privacy Policy
+Terms of Service
+
+© 2021 Algonquin College

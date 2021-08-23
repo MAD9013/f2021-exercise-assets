@@ -1,0 +1,61 @@
+HEADER ---------------
+
+Logo
+
+--- Nav Items
+Platform Tour
+Pricing
+Sign In
+Sign Up (button)
+---
+
+MAIN ---------------
+
+Hero Banner ---
+
+Next Level Design at Your Fingertips.
+The Polished+ platform makes designing your brand fast and simple.
+Sign Up (button)
+
+Platform Tour ---
+
+The Polished* Platform
+
+<Image>
+Build your logo
+Choose from high quality symbols, characters, type, and more to create your logo! See colour variations and make high quality vector logos!
+
+<Image>
+Develop your brand
+Choose from high quality templates or start from scratch. Our Brand Builder™ system can help you create exactly what you are looking for.
+
+<Image>
+See your logo in action
+See how your logo can be used in a number of scenarios merchandise, marketing material, and more!
+
+<Image>
+Print your products
+Submit your designs to our professional printers to have your products created and shipped to you!
+
+Platform Intro ---
+
+<Image>
+A platform like no other.
+With the Polished brand builder, you can create any asset your team could need. From logos, to jerseys, to merchandise, to advertisements. With simple templates, a variety of pre-designed elements, and an easy to use platform, professional level sports branding is at your fingertips!
+
+Call to Action Banner ---
+
+Join now and take your team to the next level.
+Sign Up (button)
+
+FOOTER ---------------
+
+Logo
+
+Sign Up (button)
+Social Icons
+
+Privacy Policy
+Terms of Service
+
+© 2021 Algonquin College

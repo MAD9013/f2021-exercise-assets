@@ -1,0 +1,48 @@
+HEADER ---------------
+
+Logo
+
+--- Nav Items
+Platform Tour
+Pricing
+Sign In
+Sign Up (button)
+---
+
+MAIN ---------------
+
+Hero Banner ---
+
+Community Feel. Professional Look.
+Create your team’s new look with our simple, fast brand builder.
+Sign Up (button)
+
+Logo Bar ---
+
+Logo 1
+Logo 2
+Logo 3
+Logo 4
+
+Product Intro ---
+
+Design your brand from top to bottom.
+With the Polished brand builder, you can create any asset your team could need. From logos, to jerseys, to merchandise, to advertisements. With simple templates, a variety of pre-designed elements, and an easy to use platform, professional level sports branding is at your fingertips!
+Image
+
+Call to Action Banner ---
+
+Join now and take your team to the next level.
+Sign Up (button)
+
+FOOTER ---------------
+
+Logo
+
+Sign Up (button)
+Social Icons
+
+Privacy Policy
+Terms of Service
+
+© 2021 Algonquin College

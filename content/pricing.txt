@@ -1,0 +1,56 @@
+HEADER ---------------
+
+Logo
+
+--- Nav Items
+Platform Tour
+Pricing
+Sign In
+Sign Up (button)
+---
+
+MAIN ---------------
+
+Header ---
+
+Affordable Pricing for All.
+Select one of our manageable pricing plans that works best for you.
+
+|                  | Basic | Premium | Ultra |
+| ---------------- | ----- | ------- | ----- |
+| Price            | $10   | $20     | $30   | (per month)
+| Logo Builder     | Yes   | Yes     | Yes   |
+| Colour Picker    | Yes   | Yes     | Yes   |
+| Brand Builder™   | No    | Yes     | Yes   |
+| Product Samples  | Basic | Premium | Ultra |
+| Product Printing | Basic | Premium | Ultra |
+
+[Note: include a sign up button for each level. Highlight the Premium level as best offer]
+
+FAQs ---
+
+Frequently Asked Questions
+
+I have no experience designing, will it be hard for me to use the logo builder?
+No problem! The Logo Builder tool was built with all skill levels in mind. It is very user friendly, meaning it is very easy to learn how to use. It will also help you learn as you go by giving tips, feedback, and suggestions that will improve your skills and your designs.
+
+What is the Colour Picker for? What are the advantages of using it?
+The Colour Picker helps you chose a brand colour scheme that will complete your brand and make it stand out. Many studies have shown the psycological effects of colour in advertising and our Colour Picker helps your brand to create the right impact to stand out and resonate with your audience.
+
+How do I know what products are available for me to use and print on?
+Different products are available for different plan levels. When scrolling through our large library of products, the products are clearly labeled with their plan level. You can also turn on filters that will remove items that your plan does not have access to.
+
+What are the advantages of creating a website and webstore?
+We live in a digital age, everyone expects to be able to learn about - and purchase - products online. By creating a webstore with us, you can break into the online market with ease. We handle all transactions, product creation, and shipping for you.
+
+FOOTER ---------------
+
+Logo
+
+Sign Up (button)
+Social Icons
+
+Privacy Policy
+Terms of Service
+
+© 2021 Algonquin College
