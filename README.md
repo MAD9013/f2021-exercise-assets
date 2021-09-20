@@ -13,5 +13,4 @@ This repository contains all of the assets needed to complete the exercises for 
 - Primary Color Dark: #045d4f;
 - Primary Color Light: #09a38c;
 - Primary Color Faded: #f3f6f5;
-
-Font Family: [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
+- Font Family: [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
